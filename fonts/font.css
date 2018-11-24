@@ -1,0 +1,26 @@
+
+    .test2 h1{
+        /* font-family: 'Just Me Again Down Here', cursive; */
+        font-family: 'Anton', sans-serif;
+
+        font-size: 40px
+        }
+
+    .test2 p{
+        font-family: 'Permanent Marker', cursive;
+        font-size: 22px
+
+    }
+    .test3 h1{
+        font-family: 'Just Me Again Down Here', cursive;
+        font-size: 40px
+        }
+
+    .test3 p{
+        font-family: 'Anton', sans-serif;
+
+        font-size: 26px;
+        line-height: 30px
+
+    }
+    
